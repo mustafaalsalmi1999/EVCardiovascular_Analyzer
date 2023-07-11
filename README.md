@@ -2,7 +2,6 @@
 EVCardiovascular Analyzer
  
 EVCardiovascular Analyzer is a Python GUI software that analyzes cardiovascular data and provides useful insights for researchers and healthcare professionals. The software provides various tools for analyzing  cardiac MRI/CT images and assess heart function parameters such as ejection fraction and ventricular volumes
-
 # Features
 Some of the key features of EVCardiovascular Analyzer include:
 
