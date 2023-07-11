@@ -25,29 +25,14 @@ Pandas
 
 
 ## Installation
-Clone the repository to your local machine.
+1- Clone the repository to your local machine.
 
-Install the required Python packages using pip:
+2- Install the required Python packages using pip:
 
-basic
-Copy
+```
 pip install -r requirements.txt
 ```
-Run the EVCardiovascular_Analyzer.py file to launch the application.
+Run the first.py file to launch the application.
 
-Usage
-Launch the application by running the EVCardiovascular_Analyzer.py file.
-Import ECG or blood pressure data by clicking on the "Import" button in the respective tab.
-Analyze the data and generate visualizations by selecting the appropriate options from the dropdown menus.
-Calculate HRV parameters, PP, and MAP by clicking on the "Calculate" button.
-Generate a report in PDF format by clicking on the "Generate Report" button.
-Contributing
-If you want to contribute to EVCardiovascular Analyzer, please follow these steps:
-
-Fork the repository.
-Create a new branch for your changes.
-Make your changes and commit them with descriptive commit messages.
-Push your changes to your fork.
-Create a pull request.
-License
+# License
 EVCardiovascular Analyzer is licensed under the MIT License. See LICENSE for more information.
