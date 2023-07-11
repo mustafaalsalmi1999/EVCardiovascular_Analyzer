@@ -16,8 +16,11 @@ Calculating ejection fraction and ventricular volumes
 To use EVCardiovascular Analyzer, you need to have Python 3.x and the following Python packages installed:
 
 tkinter
+
 cv2
+
 NumPy
+
 Pandas
 
 
