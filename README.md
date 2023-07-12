@@ -36,7 +36,9 @@ Pandas
 ```
 pip install -r requirements.txt
 ```
-Run the first.py file to launch the application.
+Run the first.py file to launch the application 
+if using Ubuntu
+>>python first.py
 
 # License
 EVCardiovascular Analyzer is licensed under the MIT License. See LICENSE for more information.
