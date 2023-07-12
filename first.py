@@ -14,7 +14,7 @@ class CardiacAnalyzer(tk.Tk):
     def __init__(self):
         super().__init__()
         self.title("EVCardiovascular Analyzer")
-        self.geometry("600x600")
+        self.geometry("700x700")
 
 
         #widgets
