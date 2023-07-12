@@ -36,7 +36,7 @@ Pandas
 ```
 pip install -r requirements.txt
 ```
-Run the first.py file to launch the application 
+Run the first.py file to launch the application and use examples (1,2,3)
 if using Ubuntu
 >>python first.py
 
