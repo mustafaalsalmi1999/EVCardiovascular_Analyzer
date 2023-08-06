@@ -1,21 +1,22 @@
 ---
-title: 'EVCardiovascular Analyzer: A Python tool for galactic dynamics'
+title: 'EVCardiovascular Analyzer: A Python tool for cardiovascular image analysis'
 tags:
   - Python
   - GUI
-  - Cardiology 
+  - Cardiology
+  - Cardiovascular 
 authors:
-  - name: Mustafa Al Salmi. ![Uploading image.png…]()
+  - name: Mustafa Al Salmi, Thuraya Al Salmi, Siham Al kalbani, and Hana Al Yaqoobi
 
-    orcid: 0000-0000-0000-0000
-    equal-contrib: true
+    orcid: 0009-0003-8909-1243
+    equal-contrib: No
     affiliation: "1, 2" # (Multiple affiliations must be quoted)
-  - name: Author Without ORCID
-    equal-contrib: true # (This is how you can denote equal contributions between multiple authors)
-    affiliation: 2
-  - name: Author with no affiliation
-    corresponding: true # (This is how to denote the corresponding author)
-    affiliation: 3
+  - name: Thuraya Al Salmi # Author Without ORCID and no affiliation
+    equal-contrib: no 
+  - name: Siham Al kalbani # Author Without ORCID and no affiliation
+    equal-contrib: no
+  - name: Hana Al Yaqoobi # Author Without ORCID and no affiliation
+    equal-contrib: no
 affiliations:
  - name: Lyman Spitzer, Jr. Fellow, Princeton University, USA
    index: 1
@@ -23,7 +24,7 @@ affiliations:
    index: 2
  - name: Independent Researcher, Country
    index: 3
-date: 13 August 2017
+date: 06 August 2023
 bibliography: paper.bib
 
 # Optional fields if submitting to a AAS journal too, see this blog post:
@@ -106,9 +107,5 @@ and referenced from text using \autoref{fig:example}.
 Figure sizes can be customized by adding an optional second parameter:
 ![Caption for example figure.](figure.png){ width=20% }
 
-# Acknowledgements
-
-We acknowledge contributions from Brigitta Sipocz, Syrtis Major, and Semyeong
-Oh, and support from Kathryn Johnston during the genesis of this project.
 
 # References
