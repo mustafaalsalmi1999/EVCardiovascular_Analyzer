@@ -41,22 +41,6 @@ EV Cardiovascular Analyzer is an open-source Python software package designed to
 
 Cardiovascular diseases are a major cause of morbidity and mortality worldwide. Accurate assessment of heart function is crucial for diagnosing and managing these conditions. Cardiovascular Magnetic Resonance Imaging (CVMRI) and Computed Tomography (CT) imaging are widely used modalities for evaluating cardiac function. However, manual analysis of these images is time-consuming and subjective, leading to potential variability and errors. Therefore, there is a need for a reliable, automated, and user-friendly tool for analyzing cardiovascular images and calculating heart function parameters. The purpose of EV Cardiovascular Analyzer is to provide a Python Graphical User Interface (GUI) tool for analyzing cardiovascular MRI/CT images and calculating heart function parameters such as ejection fraction and ventricular volumes. The tool will assist clinicians and researchers in obtaining accurate and reliable measurements of cardiac function, thereby improving patient care and outcomes. The tool allow importing CVMRI and CT images in standard formats such as DICOM, JPEG, etc and, then the tool  automatically segment the heart chambers and vessels from the imported images. Finally, the tool measure heart function parameters such as ejection fraction and  ventricular volumes in which the tool perform calculations based on the measured parameters to provide detailed information about cardiac function.
 
-# Mathematics
-
-Single dollars ($) are required for inline mathematics e.g. $f(x) = e^{\pi/x}$
-
-Double dollars make self-standing equations:
-
-$$\Theta(x) = \left\{\begin{array}{l}
-0\textrm{ if } x < 0\cr
-1\textrm{ else}
-\end{array}\right.$$
-
-You can also use plain \LaTeX for equations
-\begin{equation}\label{eq:fourier}
-\hat f(\omega) = \int_{-\infty}^{\infty} f(x) e^{i\omega x} dx
-\end{equation}
-and refer to \autoref{eq:fourier} from text.
 
 # Citations
 
