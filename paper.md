@@ -6,11 +6,11 @@ tags:
   - Cardiology
   - Cardiovascular 
 authors:
-  - name: Mustafa Al Salmi, Thuraya Al Salmi, Siham Al kalbani, and Hana Al Yaqoobi
-
+  - name: Mustafa Al Salmi
     orcid: 0009-0003-8909-1243
     equal-contrib: No
-    affiliation: "1, 2" # (Multiple affiliations must be quoted)
+    affiliation: "1, 2"
+    corresponding: true
   - name: Thuraya Al Salmi # Author Without ORCID and no affiliation
     equal-contrib: no 
   - name: Siham Al kalbani # Author Without ORCID and no affiliation
@@ -18,12 +18,10 @@ authors:
   - name: Hana Al Yaqoobi # Author Without ORCID and no affiliation
     equal-contrib: no
 affiliations:
- - name: Lyman Spitzer, Jr. Fellow, Princeton University, USA
+ - name: University of Nizwa, Oman
    index: 1
- - name: Institution Name, Country
+ - name: The ISIS Neutron and Muon Source is a pulsed neutron and muon source, UK
    index: 2
- - name: Independent Researcher, Country
-   index: 3
 date: 06 August 2023
 bibliography: paper.bib
 
