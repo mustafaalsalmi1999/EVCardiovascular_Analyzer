@@ -7,6 +7,7 @@ EVCardiovascular Analyzer is a Python GUI tool that analyzes cardiovascular imag
 ![Screenshot 2023-07-11 194556](https://github.com/mustafaalsalmi1999/EVCardiovascular_Analyzer/assets/98915585/b4103108-0e50-4594-9508-bd682eecaf3d)
 ![cardic](https://github.com/mustafaalsalmi1999/EVCardiovascular_Analyzer/assets/98915585/699ba768-6ad7-40e3-9f04-66a265f48544)
 
+PI = Mustafa Al-Salmi
 # Features
 Some of the key features of EVCardiovascular Analyzer include:
 
