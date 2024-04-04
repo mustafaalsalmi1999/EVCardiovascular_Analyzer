@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.10929192.svg)](https://doi.org/10.5281/zenodo.10929192)
+
 # EVCardiovascular_Analyzer
 EVCardiovascular Analyzer
  
